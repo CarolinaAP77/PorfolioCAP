@@ -1,0 +1,176 @@
+#navbar {
+    margin-top: 5px;
+    margin-left: 250px;
+    background-color: rgb(91, 127, 247);
+    display: flex;
+    justify-content: center;
+
+}
+
+section {
+    margin-top: 10px;   
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: left;
+
+}
+
+article {
+    margin-left: 20px;
+    margin-top: 45px;
+    align-items:center ;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    font-size: 22px;
+    
+}
+
+article.Imagentelefono {
+    margin-left: 20px;
+    margin-top: 100px;
+    align-items:center ;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    font-size: 26px;
+    border: 4px solid black
+
+}
+
+article.ImagenInstagram {
+    margin-left: 20px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    display: flex;
+    border: 4px solid black
+
+}
+
+article.ImagenFacebook {
+    margin-left: 20px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    display: flex;
+    border: 4px solid black
+}
+
+article.ImagenCorreo {
+    margin-left: 20px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    display: flex;
+    border: 4px solid black
+
+}
+
+
+html {
+    background-color: rgb(91, 127, 247);
+
+}
+
+button[value='0'] {
+
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='1'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='2'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='3'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: cyan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='4'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='5'] {
+    margin-left: 550px;
+    margin-top: -850px;
+    height: 40px;
+    width: 265px;
+    color: white;
+    background-color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border: 4px solid black
+}
+
+button[value='Nombre'] {
+    margin-left: 550px;
+    margin-top: -1300px;
+    height: 40px;
+    width: 265px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    display: flex;    
+    border: 4px solid black
+
+}
+
+button[value='Mail'] {
+    margin-left: 850px;
+    margin-top: -1420px;
+    height: 40px;
+    width: 300px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    display: flex;    
+    border: 4px solid black
+
+}
+
+button[value='Mensaje'] {
+    margin-left: 550px;
+    margin-top: -950px;    
+    height: 480px;
+    width: 600px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    display: flex;    
+    border: 4px solid rgb(221, 17, 17)
+
+}
+
+
+

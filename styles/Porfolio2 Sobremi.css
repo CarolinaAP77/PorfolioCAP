@@ -1,0 +1,113 @@
+#navbar {
+    margin-left: 250px;   
+    background-color: rgb(91, 127, 247);
+    display: flex;
+    justify-content: center;
+
+}
+
+section {
+    margin-top: 10px;
+    margin-left: 100px;   
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+article.text {    
+    background-color: rgb(100, 73, 126);
+    height: 360px;
+    width: 500px;
+    border: 4px solid rgb(25, 102, 73);
+
+}
+
+article > p {
+   
+    margin: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    display: flex;
+    background-size: cover;
+    color: white;
+
+}
+
+
+article.Imagen {
+    margin-left: 30px;
+    height: 350px;
+    width: 400px;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+html {
+    background-color: rgb(91, 127, 247);
+
+}
+
+button[value='0'] {
+
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='1'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: cyan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='2'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='3'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='4'] {
+    height: 40px;
+    width: 140px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button[value='5'] {
+    margin-top: 20px;
+   margin-left: -4px;
+    height: 40px;
+    width: 165px;
+    color: white;
+    background-color: rgb(67, 19, 116);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border: 4px solid black
+}
+
